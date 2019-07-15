@@ -8,4 +8,4 @@ Codes for embedding Image in Audio data are ongoing...
 
 # Code reference
 
-By [davidtvs](https://github.com/davidtvs/PyTorch-ENet)
+The framework of our codes are referred to [davidtvs](https://github.com/davidtvs/PyTorch-ENet)'s awesome project.
